@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Actors,Number of User Ratings
+1,Planet Earth II,2016,9.4,"David Attenborough, Chadden Hunter",132463
+2,Breaking Bad,2008,9.4,"Bryan Cranston, Aaron Paul",1738809
+3,Planet Earth,2006,9.4,"Sigourney Weaver, David Attenborough",199038
+4,Band of Brothers,2001,9.4,"Scott Grimes, Damian Lewis",444422
+5,Chernobyl,2019,9.3,"Jessie Buckley, Jared Harris",700005
+6,The Wire,2002,9.3,"Dominic West, Lance Reddick",326317
+7,Blue Planet II,2017,9.2,"David Attenborough, Peter Drost",39712
+8,Avatar: The Last Airbender,2005,9.2,"Dee Bradley Baker, Zach Tyler Eisen",298720
+9,Cosmos,2014,9.2,"Neil deGrasse Tyson, Christopher Emerson",119735
+10,The Sopranos,1999,9.2,"James Gandolfini, Lorraine Bracco",373971
+11,Cosmos,1980,9.2,"Carl Sagan, Jaromír Hanzlík",40396
+12,Our Planet,2019,9.2,David Attenborough,41761
+13,Game of Thrones,2011,9.2,"Emilia Clarke, Peter Dinklage",1989689
+14,Rick and Morty,2013,9.1,"Justin Roiland, Chris Parnell",476575
+15,The World at War,1973,9.1,"Laurence Olivier, Albert Speer",25191
+16,Fullmetal Alchemist: Brotherhood,2009,9.1,"Kent Williams, Iemasa Kayumi",157478
+17,The Last Dance,2020,9.0,"Michael Jordan, Phil Jackson",112139
+18,Life,2009,9.0,"Oprah Winfrey, David Attenborough",40544
+19,Sherlock,2010,9.0,"Benedict Cumberbatch, Martin Freeman",894170
+20,The Twilight Zone,1959,9.0,"Rod Serling, Robert McCord",80868
+21,The Vietnam War,2017,9.0,"Peter Coyote, Huy Duc",23989
+22,Batman: The Animated Series,1992,9.0,"Kevin Conroy, Loren Lester",100109
+23,Scam 1992: The Harshad Mehta Story,2020,9.0,"Pratik Gandhi, Shreya Dhanwanthary",139463
+24,Arcane,2021,8.9,"Hailee Steinfeld, Kevin Alejandro",178329
+25,The Blue Planet,2001,8.9,"David Attenborough, Pierce Brosnan",38818
+26,Firefly,2002,8.9,"Nathan Fillion, Gina Torres",260316
+27,Human Planet,2011,8.9,"John Hurt, Roger Munns",26008
+28,The Office,2005,8.9,"Steve Carell, Jenna Fischer",545123
+29,Attack on Titan,2013,8.9,"Josh Grelle, Yûki Kaji",347426
+30,Frozen Planet,2011,8.9,"David Attenborough, Alec Baldwin",30027
+31,Death Note,2006,8.9,"Mamoru Miyano, Brad Swaile",303691
+32,The Beatles: Get Back,2021,8.9,"The Beatles, John Lennon",19825
+33,True Detective,2014,8.9,"Vince Vaughn, Colin Farrell",548105
+34,Only Fools and Horses,1981,8.9,"David Jason, Nicholas Lyndhurst",50624
+35,The American Civil War,1990,8.9,"David McCullough, Sam Waterston",16117
+36,Seinfeld,1989,8.9,"Jerry Seinfeld, Julia Louis-Dreyfus",304014
+37,Hunter x Hunter,2011,8.9,"Issei Futamata, Megumi Han",88830
+38,Sahsiyet,2018,8.9,"Haluk Bilginer, Cansu Dere",39758
+39,Clarkson's Farm,2021,8.9,"Jeremy Clarkson, Kaleb Cooper",32714
+40,Fargo,2014,8.9,"Billy Bob Thornton, Martin Freeman",362947
+41,Dekalog,1989,8.9,"Artur Barcis, Olgierd Lukaszewicz",25217
+42,Cowboy Bebop,1998,8.9,"Kôichi Yamadera, Unshô Ishizuka",113475
+43,Friends,1994,8.8,"Jennifer Aniston, Courteney Cox",953249
+44,When They See Us,2019,8.8,"Asante Blackk, Caleel Harris",115120
+45,Gravity Falls,2012,8.8,"Jason Ritter, Alex Hirsch",98354
+46,Last Week Tonight with John Oliver,2014,8.8,"John Oliver, David Kaye",86656
+47,Nathan for You,2013,8.8,"Nathan Fielder, Anthony Filosa",26271
+48,Africa,2013,8.8,"David Attenborough, Simon Blakeney",15838
+49,Monty Python's Flying Circus,1969,8.8,"Graham Chapman, John Cleese",73084
+50,Apocalypse: The Second World War,2009,8.8,"Mathieu Kassovitz, Martin Sheen",12204
+51,TVF Pitchers,2015,8.8,"Naveen Kasturia, Arunabh Kumar",66179
+52,It's Always Sunny in Philadelphia,2005,8.8,"Charlie Day, Glenn Howerton",217307
+53,Das Boot,1985,8.8,"Jürgen Prochnow, Herbert Grönemeyer",29479
+54,Better Call Saul,2015,8.8,"Bob Odenkirk, Rhea Seehorn",414155
+55,Taskmaster,2015,8.8,"Greg Davies, Alex Horne",11027
+56,Curb Your Enthusiasm,2000,8.8,"Larry David, Cheryl Hines",124179
+57,Pride and Prejudice,1995,8.8,"Colin Firth, Jennifer Ehle",83220
+58,Fawlty Towers,1975,8.8,"John Cleese, Prunella Scales",91473
+59,Freaks and Geeks,1999,8.8,"Linda Cardellini, John Francis Daley",139770
+60,The West Wing,1999,8.8,"Martin Sheen, Rob Lowe",73538
+61,Leyla ile Mecnun,2011,8.8,"Ali Atay, Serkan Keskin",93169
+62,Blackadder Goes Forth,1989,8.7,"Rowan Atkinson, Tony Robinson",52068
+63,Twin Peaks,1990,8.7,"Kyle MacLachlan, Michael Ontkean",192638
+64,Black Mirror,2011,8.7,"Daniel Lapaine, Hannah John-Kamen",518036
+65,Narcos,2015,8.7,"Pedro Pascal, Wagner Moura",405798
+66,Chappelle's Show,2003,8.7,"Dave Chappelle, Donnell Rawlings",62457
+67,Dragon Ball Z,1989,8.7,"Doc Harris, Christopher Sabat",126151
+68,BoJack Horseman,2014,8.7,"Will Arnett, Amy Sedaris",144616
+69,Dragon Ball Z,1989,8.7,"Jôji Yanami, Kyle Hebert",77567
+70,Succession,2018,8.7,"Nicholas Braun, Brian Cox",127548
+71,Peaky Blinders,2013,8.7,"Cillian Murphy, Paul Anderson",489422
+72,"I, Claudius",1976,8.7,"Derek Jacobi, John Hurt",17216
+73,Rome,2005,8.7,"Kevin McKidd, Ray Stevenson",167693
+74,South Park,1997,8.7,"Trey Parker, Matt Stone",360373
+75,Oz,1997,8.7,"Ernie Hudson, J.K. Simmons",97301
+76,Six Feet Under,2001,8.7,"Peter Krause, Michael C. Hall",132345
+77,Ted Lasso,2020,8.7,"Jason Sudeikis, Brett Goldstein",181371
+78,Over the Garden Wall,2014,8.7,"Elijah Wood, Collin Dean",52046
+79,The Mandalorian,2019,8.7,"Pedro Pascal, Carl Weathers",428698
+80,One Piece,1999,8.7,"Mayumi Tanaka, Tony Beck",113944
+81,Arrested Development,2003,8.7,"Jason Bateman, Michael Cera",298214
+82,Dark,2017,8.7,"Louis Hofmann, Karoline Eichhorn",356164
+83,Kota Factory,2019,8.7,"Mayur More, Jitendra Kumar",68361
+84,One Punch Man: Wanpanman,2015,8.7,"Makoto Furukawa, Kaito Ishikawa",149199
+85,Steins;Gate,2011,8.7,"Mamoru Miyano, Asami Imai",58427
+86,The Simpsons,1989,8.7,"Dan Castellaneta, Nancy Cartwright",395721
+87,House M.D.,2004,8.7,"Hugh Laurie, Omar Epps",449446
+88,The Shield,2002,8.7,"Michael Chiklis, Michael Jace",79288
+89,As If,2021,8.7,"Feyyaz Yigit, Kivanç Kilinç",10185
+90,Battlestar Galactica,2004,8.6,"Edward James Olmos, Mary McDonnell",163218
+91,Downton Abbey,2010,8.6,"Hugh Bonneville, Phyllis Logan",199245
+92,Fleabag,2016,8.6,"Phoebe Waller-Bridge, Sian Clifford",140872
+93,Stranger Things,2016,8.6,"Millie Bobby Brown, Finn Wolfhard",1003511
+94,Invincible,2021,8.6,"Steven Yeun, J.K. Simmons",115689
+95,Heartstopper,2022,8.6,"Joe Locke, Kit Connor",36606
+96,House of Cards,2013,8.6,"Kevin Spacey, Michel Gill",494949
+97,Mad Men,2007,8.6,"Jon Hamm, Elisabeth Moss",232152
+98,1883,2021,8.6,"Sam Elliott, Tim McGraw",52639
+99,The Marvelous Mrs. Maisel,2017,8.6,"Rachel Brosnahan, Alex Borstein",109453
+100,Vinland Saga,2019,8.6,"Philece Sampler, Kira Buckland",31140
+101,The Crown,2016,8.6,"Claire Foy, Olivia Colman",191574
+102,Star Trek: The Next Generation,1987,8.6,"Patrick Stewart, Brent Spiner",116978
+103,Sarabhai V/S Sarabhai,2004,8.6,"Satish Shah, Ratna Pathak Shah",16586
+104,Friday Night Lights,2006,8.6,"Kyle Chandler, Connie Britton",64632
+105,The Adventures of Sherlock Holmes,1984,8.6,"Jeremy Brett, David Burke",21903
+106,Top Gear,2002,8.6,"Jeremy Clarkson, Richard Hammond",116245
+107,Peep Show,2003,8.6,"David Mitchell, Robert Webb",58880
+108,The Boys,2019,8.6,"Karl Urban, Jack Quaid",366346
+109,Severance,2022,8.6,"Adam Scott, Zach Cherry",58417
+110,The Grand Tour,2016,8.6,"Jeremy Clarkson, James May",72309
+111,The Thick of It,2005,8.6,"Chris Addison, James Smith",23057
+112,Berserk,1997,8.6,"Marc Diraison, Nobutoshi Canna",36615
+113,Line of Duty,2012,8.6,"Martin Compston, Vicky McClure",56112
+114,Justice League Unlimited,2004,8.6,"George Newbern, Kevin Conroy",15241
+115,Deadwood,2004,8.6,"Timothy Olyphant, Ian McShane",104607
+116,Dexter,2006,8.6,"Michael C. Hall, Jennifer Carpenter",712493
+117,The X Files,1993,8.6,"David Duchovny, Gillian Anderson",218178
+118,The Jinx: The Life and Deaths of Robert Durst,2015,8.6,"Andrew Jarecki, Robert Durst",45158
+119,Parks and Recreation,2009,8.6,"Amy Poehler, Jim O'Heir",248613
+120,Father Ted,1995,8.6,"Dermot Morgan, Ardal O'Hanlon",39677
+121,Blackadder II,1986,8.6,"Rowan Atkinson, Tony Robinson",46023
+122,The Bridge,2011,8.6,"Sofia Helin, Rafael Pettersson",67280
+123,Naruto: Shippuden,2007,8.6,"Alexandre Crepet, Junko Takeuchi",116723
+124,Gullak,2019,8.6,"Jameel Khan, Geetanjali Kulkarni",15224
+125,This Is Us,2016,8.6,"Milo Ventimiglia, Mandy Moore",135693
+126,Demon Slayer: Kimetsu no Yaiba,2019,8.6,"Natsuki Hanae, Zach Aguilar",89524
+127,Aspirants,2021,8.6,"Naveen Kasturia, Shivankit Singh Parihar",293506
+128,Panchayat,2020,8.6,"Jitendra Kumar, Raghuvir Yadav",60473
+129,Archer,2009,8.6,"H. Jon Benjamin, Judy Greer",151085
+130,Daredevil,2015,8.6,"Charlie Cox, Vincent D'Onofrio",421158
+131,Atlanta,2016,8.6,"Donald Glover, Brian Tyree Henry",66998
+132,Code Geass: Lelouch of the Rebellion,2006,8.6,"Jun Fukuyama, Takahiro Sakurai",64754
+133,Mystery Science Theatre 3000,1988,8.6,"Joel Hodgson, Michael J. Nelson",24409
+134,Behzat Ç. an Ankara Detective Story,2010,8.6,"Erdal Besikçioglu, Inanç Konukçu",29523
+135,It's a Sin,2021,8.6,"Olly Alexander, Nathaniel Curtis",29450
+136,Haikyuu!!,2014,8.6,"Ayumu Murase, Kaito Ishikawa",22475
+137,Blackadder the Third,1987,8.6,"Rowan Atkinson, Tony Robinson",43659
+138,Young Justice,2010,8.6,"Nolan North, Danica McKellar",39744
+139,The Return of Sherlock Holmes,1986,8.6,"Jeremy Brett, Edward Hardwicke",12013
+140,Lonesome Dove,1989,8.6,"Robert Duvall, Tommy Lee Jones",22764
+141,Gomorrah,2014,8.6,"Salvatore Esposito, Marco D'Amore",38534
+142,Mindhunter,2017,8.6,"Jonathan Groff, Holt McCallany",270161
+143,QI,2003,8.5,"Alan Davies, Stephen Fry",31457
+144,Making a Murderer,2015,8.5,"Steven Avery, Dolores Avery",93772
+145,Mahabharat,1988,8.5,"Harish Bhimani, Nitish Bharadwaj",17535
+146,Adventure Time,2010,8.5,"John DiMaggio, Jeremy Shada",90395
+147,Yellowstone,2018,8.5,"Luke Grimes, Kelly Reilly",112994
+148,Dopesick,2021,8.5,"Michael Keaton, Peter Sarsgaard",46919
+149,Mr. Bean,1990,8.5,"Rowan Atkinson, Robin Driscoll",115184
+150,Westworld,2016,8.5,"Evan Rachel Wood, Jeffrey Wright",476651
+151,Anne,2017,8.5,"Amybeth McNulty, Geraldine James",51366
+152,Poirot,1989,8.5,"David Suchet, Hugh Fraser",44160
+153,Formula 1: Drive to Survive,2019,8.5,"Jack Nicholls, Lewis Hamilton",37078
+154,Boardwalk Empire,2010,8.5,"Steve Buscemi, Kelly Macdonald",185504
+155,The Haunting of Hill House,2018,8.5,"Michiel Huisman, Carla Gugino",227876
+156,The Bugs Bunny Show,1960,8.5,"Mel Blanc, Pinto Colvig",33329
+157,Monster,2004,8.5,"Hidenobu Kiuchi, Liam O'Brien",27940
+158,Justified,2010,8.5,"Timothy Olyphant, Nick Searcy",97776
+159,The Queen's Gambit,2020,8.5,"Anya Taylor-Joy, Chloe Pirrie",409061
+160,The Eric Andre Show,2012,8.5,"Eric André, Hannibal Buress",17436
+161,Yes Minister,1980,8.5,"Paul Eddington, Nigel Hawthorne",14509
+162,The Newsroom,2012,8.5,"Jeff Daniels, Emily Mortimer",113547
+163,Flight of the Conchords,2007,8.5,"Jemaine Clement, Bret McKenzie",59993
+164,Yeh Meri Family,2018,8.5,"Vishesh Bansal, Mona Singh",23375
+165,Dragon Ball,1986,8.5,"Masako Nozawa, Jôji Yanami",55447
+166,Ramayan,1987,8.5,"Arun Govil, Deepika Chikhalia",19448
+167,Spaced,1999,8.5,"Simon Pegg, Jessica Hynes",54090
+168,Impractical Jokers,2011,8.5,"Brian Quinn, James Murray",38892
+169,Justice League,2001,8.5,"Carl Lumbly, Phil LaMarr",45617
+170,Coupling,2000,8.5,"Jack Davenport, Gina Bellman",45190
+171,Primal,2019,8.5,"Aaron LaPlante, Laëtitia Eïdo",10465
+172,Dragon Ball,1995,8.5,"Brice Armstrong, Steve Olson",58755
+173,Battlestar Galactica,2003,8.5,"Edward James Olmos, Mary McDonnell",74307
+174,Crash Landing on You,2019,8.5,"Hyun Bin, Son Ye-jin",25324
+175,Homicide: Life on the Street,1993,8.5,"Richard Belzer, Clark Johnson",12634
+176,Long Way Round,2004,8.5,"Ewan McGregor, Charley Boorman",13924
+177,The Venture Bros.,2003,8.5,"Christopher McCulloch, James Urbaniak",25610
+178,The Office,2001,8.5,"Ricky Gervais, Martin Freeman",110117
+179,The IT Crowd,2006,8.5,"Chris O'Dowd, Richard Ayoade",148022
+180,Louie,2010,8.5,"Louis C.K., Hadley Delany",78170
+181,Samurai Champloo,2004,8.5,"Kazuya Nakai, Ginpei Sato",47015
+182,Senke nad Balkanom,2017,8.5,"Andrija Kuzmanovic, Marija Bergam",11299
+183,I'm Alan Partridge,1997,8.5,"Steve Coogan, Simon Greenall",20362
+184,The Bureau,2015,8.5,"Mathieu Kassovitz, Florence Loiret Caille",11153
+185,Mr. Robot,2015,8.5,"Rami Malek, Christian Slater",374815
+186,What We Do in the Shadows,2019,8.5,"Kayvan Novak, Matt Berry",65887
+187,The Family Man,2019,8.5,"Manoj Bajpayee, Samantha Ruth Prabhu",82788
+188,Whose Line Is It Anyway?,1998,8.5,"Drew Carey, Colin Mochrie",43013
+189,Shameless,2011,8.5,"Emmy Rossum, William H. Macy",230880
+190,Cobra Kai,2018,8.5,"Ralph Macchio, William Zabka",164543
+191,"Yes, Prime Minister",1986,8.5,"Paul Eddington, Nigel Hawthorne",11299
+192,Through the Wormhole,2010,8.5,"Morgan Freeman, Sean Carroll",17674
+193,Pose,2018,8.5,"Michaela Jaé (MJ) Rodriguez, Dominique Jackson",28151
+194,Jujutsu Kaisen,2020,8.5,"Junya Enoki, Adam McArthur",50091
+195,Spartacus,2010,8.5,"Andy Whitfield, Lucy Lawless",237534
+196,Letterkenny,2016,8.5,"Jared Keeso, Nathan Dales",21436
+197,Fullmetal Alchemist,2003,8.5,"Vic Mignogna, Aaron Dismuke",69130
+198,Skam,2015,8.5,"Josefine Frida Pettersen, Iman Meskini",32966
+199,Samurai Jack,2001,8.5,"Phil LaMarr, Mako",51873
+200,Brass Eye,1997,8.5,"Christopher Morris, Mark Heap",10647
+201,North & South,2004,8.5,"Daniela Denby-Ashe, Richard Armitage",32190
+202,Sons of Anarchy,2008,8.5,"Charlie Hunnam, Katey Sagal",288599
+203,Spartacus: Gods of the Arena,2011,8.5,"John Hannah, Manu Bennett",135360
+204,Silicon Valley,2014,8.5,"Thomas Middleditch, T.J. Miller",144537
+205,Trailer Park Boys,2001,8.5,"John Paul Tremblay, Robb Wells",42123
+206,Neon Genesis Evangelion,1995,8.5,"Megumi Ogata, Megumi Hayashibara",65165
+207,Doctor Who,2005,8.5,"Jodie Whittaker, Peter Capaldi",218861
+208,From the Earth to the Moon,1998,8.5,"Tom Hanks, Nick Searcy",12119
+209,Ezel,2009,8.5,"Kenan Imirzalioglu, Cansu Dere",31790
+210,Futurama,1999,8.5,"Billy West, John DiMaggio",231031
+211,Detectorists,2014,8.5,"Mackenzie Crook, Toby Jones",13966
+212,Twin Peaks,2017,8.5,"Kyle MacLachlan, Sheryl Lee",65575
+213,Rurouni Kenshin: Meiji Kenkaku Romantan: Tsuioku Hen,1999,8.5,"Mayo Suzukaze, Junko Iwao",14581
+214,Endeavour,2012,8.5,"Shaun Evans, Roger Allam",24766
+215,Mob Psycho 100,2016,8.5,"Setsuo Ito, Takahiro Sakurai",27193
+216,Hannibal,2013,8.5,"Hugh Dancy, Mads Mikkelsen",248552
+217,Community,2009,8.5,"Joel McHale, Danny Pudi",253668
+218,Generation Kill,2008,8.4,"Alexander Skarsgård, James Ransone",52583
+219,The Angry Video Game Nerd,2004,8.4,"James Rolfe, Mike Matei",14950
+220,The Expanse,2015,8.4,"Steven Strait, Dominique Tipper",147404
+221,The Night Of,2016,8.4,"Riz Ahmed, John Turturro",144852
+222,Chef's Table,2015,8.4,"Massimo Bottura, Ruth Reichl",15242
+223,Schitt's Creek,2015,8.4,"Eugene Levy, Catherine O'Hara",113241
+224,Content Cop,2015,8.4,"Ian Washburn, Calvin Vail",12483
+225,Alfred Hitchcock Presents,1955,8.4,"Alfred Hitchcock, Harry Tyler",16946
+226,Big Little Lies,2017,8.4,"Reese Witherspoon, Nicole Kidman",189746
+227,The Knick,2014,8.4,"André Holland, Clive Owen",47842
+228,Wentworth Prison,2013,8.4,"Kate Atkinson, Katrina Milosevic",21809
+229,Regular Show,2009,8.4,"J.G. Quintel, William Salyers",41016
+230,John Adams,2008,8.4,"Paul Giamatti, Laura Linney",32298
+231,Shigatsu wa kimi no uso,2014,8.4,"Natsuki Hanae, Risa Taneda",27046
+232,Black Books,2000,8.4,"Dylan Moran, Bill Bailey",58066
+233,The Punisher,2017,8.4,"Jon Bernthal, Amber Rose Revah",221439
+234,My Brilliant Friend,2018,8.4,"Alba Rohrwacher, Margherita Mazzucco",14126
+235,The Defiant Ones,2017,8.4,"Dr. Dre, Bono",14292
+236,X-Men,1992,8.4,"Cedric Smith, Cal Dodd",41985
+237,Mr Inbetween,2018,8.4,"Scott Ryan, Chika Yasumura",15941
+238,Garth Marenghi's Darkplace,2004,8.4,"Richard Ayoade, Matt Berry",18037
+239,Mare of Easttown,2021,8.4,"Kate Winslet, Julianne Nicholson",143360
+240,Avrupa Yakasi,2004,8.4,"Gülse Birsel, Levent Üzümcü",18392
+241,Southland,2009,8.4,"Michael Cudlitz, Shawn Hatosy",26247
+242,Queer Eye,2018,8.4,"Antoni Porowski, Tan France",18489
+243,Boku dake ga inai machi,2016,8.4,"Ben Diskin, Tao Tsuchiya",43284
+244,Ozark,2017,8.4,"Jason Bateman, Laura Linney",287165
+245,I Love Lucy,1951,8.4,"Lucille Ball, Desi Arnaz",26075
+246,Rocket Boys,2022,8.4,"Jim Sarbh, Ishwak Singh",10782
+247,"Love, Death & Robots",2019,8.4,"Fred Tatasciore, Scott Whyte",143445
+248,Clannad: After Story,2008,8.4,"Yûichi Nakamura, David Matranga",10875
+249,Harley Quinn,2019,8.4,"Kaley Cuoco, Lake Bell",23620
+250,Foyle's War,2002,8.4,"Michael Kitchen, Honeysuckle Weeks",15024

@@ -1,0 +1,251 @@
+Rank,Title,Year,Rating,Director,Actors,Number of User Ratings
+1,The Shawshank Redemption,1994,9.2,Frank Darabont,"Tim Robbins, Morgan Freeman",2592177
+2,The Godfather,1972,9.2,Francis Ford Coppola,"Marlon Brando, Al Pacino",1787460
+3,The Dark Knight,2008,9.0,Christopher Nolan,"Christian Bale, Heath Ledger",2563022
+4,The Godfather: Part II,1974,9.0,Francis Ford Coppola,"Al Pacino, Robert De Niro",1233444
+5,12 Angry Men,1957,8.9,Sidney Lumet,"Henry Fonda, Lee J. Cobb",765748
+6,Schindler's List,1993,8.9,Steven Spielberg,"Liam Neeson, Ralph Fiennes",1318922
+7,The Lord of the Rings: The Return of the King,2003,8.9,Peter Jackson,"Elijah Wood, Viggo Mortensen",1780907
+8,Pulp Fiction,1994,8.9,Quentin Tarantino,"John Travolta, Uma Thurman",1987616
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Peter Jackson,"Elijah Wood, Ian McKellen",1802099
+10,"The Good, the Bad and the Ugly",1966,8.8,Sergio Leone,"Clint Eastwood, Eli Wallach",743932
+11,Forrest Gump,1994,8.8,Robert Zemeckis,"Tom Hanks, Robin Wright",2000890
+12,Fight Club,1999,8.8,David Fincher,"Brad Pitt, Edward Norton",2040858
+13,Inception,2010,8.7,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt",2274488
+14,The Lord of the Rings: The Two Towers,2002,8.7,Peter Jackson,"Elijah Wood, Ian McKellen",1608440
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Irvin Kershner,"Mark Hamill, Harrison Ford",1253539
+16,The Matrix,1999,8.7,Lana Wachowski,"Keanu Reeves, Laurence Fishburne",1862120
+17,Goodfellas,1990,8.7,Martin Scorsese,"Robert De Niro, Ray Liotta",1118972
+18,One Flew Over the Cuckoo's Nest,1975,8.6,Milos Forman,"Jack Nicholson, Louise Fletcher",984936
+19,Seven,1995,8.6,David Fincher,"Morgan Freeman, Brad Pitt",1590740
+20,Seven Samurai,1954,8.6,Akira Kurosawa,"Toshirô Mifune, Takashi Shimura",339617
+21,It's a Wonderful Life,1946,8.6,Frank Capra,"James Stewart, Donna Reed",445649
+22,The Silence of the Lambs,1991,8.6,Jonathan Demme,"Jodie Foster, Anthony Hopkins",1387841
+23,City of God,2002,8.6,Fernando Meirelles,"Alexandre Rodrigues, Leandro Firmino",742209
+24,Saving Private Ryan,1998,8.6,Steven Spielberg,"Tom Hanks, Matt Damon",1349388
+25,Life Is Beautiful,1997,8.6,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",677731
+26,The Green Mile,1999,8.6,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",1260136
+27,Interstellar,2014,8.6,Christopher Nolan,"Matthew McConaughey, Anne Hathaway",1734903
+28,Star Wars,1977,8.6,George Lucas,"Mark Hamill, Harrison Ford",1325101
+29,Terminator 2: Judgment Day,1991,8.5,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",1070065
+30,Back to the Future,1985,8.5,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd",1163037
+31,Spirited Away,2001,8.5,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette",734164
+32,Psycho,1960,8.5,Alfred Hitchcock,"Anthony Perkins, Janet Leigh",654387
+33,The Pianist,2002,8.5,Roman Polanski,"Adrien Brody, Thomas Kretschmann",806731
+34,Leon,1994,8.5,Luc Besson,"Jean Reno, Gary Oldman",1128574
+35,Parasite,2019,8.5,Bong Joon Ho,"Song Kang-ho, Sun-kyun Lee",746637
+36,The Lion King,1994,8.5,Roger Allers,"Matthew Broderick, Jeremy Irons",1026543
+37,Gladiator,2000,8.5,Ridley Scott,"Russell Crowe, Joaquin Phoenix",1456779
+38,American History X,1998,8.5,Tony Kaye,"Edward Norton, Edward Furlong",1097967
+39,The Usual Suspects,1995,8.5,Bryan Singer,"Kevin Spacey, Gabriel Byrne",1062233
+40,The Departed,2006,8.5,Martin Scorsese,"Leonardo DiCaprio, Matt Damon",1288555
+41,The Prestige,2006,8.5,Christopher Nolan,"Christian Bale, Hugh Jackman",1296063
+42,Casablanca,1942,8.5,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman",560333
+43,Whiplash,2014,8.5,Damien Chazelle,"Miles Teller, J.K. Simmons",811127
+44,Untouchable,2011,8.5,Olivier Nakache,"François Cluzet, Omar Sy",833349
+45,Modern Times,1936,8.5,Charles Chaplin,"Charles Chaplin, Paulette Goddard",237723
+46,Harakiri,1962,8.4,Masaki Kobayashi,"Tatsuya Nakadai, Akira Ishihama",54158
+47,Once Upon a Time in the West,1968,8.4,Sergio Leone,"Henry Fonda, Charles Bronson",323792
+48,Grave of the Fireflies,1988,8.4,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi",267539
+49,Rear Window,1954,8.4,Alfred Hitchcock,"James Stewart, Grace Kelly",481335
+50,Alien,1979,8.4,Ridley Scott,"Sigourney Weaver, Tom Skerritt",855449
+51,City Lights,1931,8.4,Charles Chaplin,"Charles Chaplin, Virginia Cherrill",181871
+52,Cinema Paradiso,1988,8.4,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale",255136
+53,Memento,2000,8.4,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss",1208925
+54,Apocalypse Now,1979,8.4,Francis Ford Coppola,"Martin Sheen, Marlon Brando",652194
+55,Raiders of the Lost Ark,1981,8.4,Steven Spielberg,"Harrison Ford, Karen Allen",944938
+56,Django Unchained,2012,8.4,Quentin Tarantino,"Jamie Foxx, Christoph Waltz",1498451
+57,WALL·E,2008,8.4,Andrew Stanton,"Ben Burtt, Elissa Knight",1085896
+58,Top Gun: Maverick,2022,8.4,Joseph Kosinski,"Tom Cruise, Jennifer Connelly",53605
+59,The Lives of Others,2006,8.4,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck",383767
+60,Sunset Blvd.,1950,8.4,Billy Wilder,"William Holden, Gloria Swanson",217975
+61,Paths of Glory,1957,8.4,Stanley Kubrick,"Kirk Douglas, Ralph Meeker",193732
+62,The Shining,1980,8.4,Stanley Kubrick,"Jack Nicholson, Shelley Duvall",987305
+63,The Great Dictator,1940,8.4,Charles Chaplin,"Charles Chaplin, Paulette Goddard",220472
+64,Witness for the Prosecution,1957,8.4,Billy Wilder,"Tyrone Power, Marlene Dietrich",122396
+65,Avengers: Infinity War,2018,8.4,Anthony Russo,"Robert Downey Jr., Chris Hemsworth",1018420
+66,Aliens,1986,8.3,James Cameron,"Sigourney Weaver, Michael Biehn",700655
+67,American Beauty,1999,8.3,Sam Mendes,"Kevin Spacey, Annette Bening",1133200
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,Stanley Kubrick,"Peter Sellers, George C. Scott",481048
+69,The Dark Knight Rises,2012,8.3,Christopher Nolan,"Christian Bale, Tom Hardy",1655994
+70,Spider-Man: Into the Spider-Verse,2018,8.3,Bob Persichetti,"Shameik Moore, Jake Johnson",492650
+71,Joker,2019,8.3,Todd Phillips,"Joaquin Phoenix, Robert De Niro",1196619
+72,Oldboy,2003,8.3,Park Chan-wook,"Choi Min-sik, Yoo Ji-Tae",562999
+73,Braveheart,1995,8.3,Mel Gibson,"Mel Gibson, Sophie Marceau",1018279
+74,Amadeus,1984,8.3,Milos Forman,"F. Murray Abraham, Tom Hulce",394083
+75,Toy Story,1995,8.3,John Lasseter,"Tom Hanks, Tim Allen",965445
+76,Coco,2017,8.3,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal",478977
+77,Das Boot,1981,8.3,Wolfgang Petersen,"Jürgen Prochnow, Herbert Grönemeyer",247392
+78,Inglourious Basterds,2009,8.3,Quentin Tarantino,"Brad Pitt, Diane Kruger",1397384
+79,Princess Mononoke,1997,8.3,Hayao Miyazaki,"Yôji Matsuda, Yuriko Ishida",382935
+80,Once Upon a Time in America,1984,8.3,Sergio Leone,"Robert De Niro, James Woods",343633
+81,Avengers: Endgame,2019,8.3,Anthony Russo,"Robert Downey Jr., Chris Evans",1057164
+82,Good Will Hunting,1997,8.3,Gus Van Sant,"Robin Williams, Matt Damon",939393
+83,Requiem for a Dream,2000,8.3,Darren Aronofsky,"Ellen Burstyn, Jared Leto",822377
+84,Toy Story 3,2010,8.3,Lee Unkrich,"Tom Hanks, Tim Allen",815111
+85,Singin' in the Rain,1952,8.3,Stanley Donen,"Gene Kelly, Donald O'Connor",237650
+86,Your Name.,2016,8.3,Makoto Shinkai,"Ryûnosuke Kamiki, Mone Kamishiraishi",251760
+87,Everything Everywhere All at Once,2022,8.3,Dan Kwan,"Michelle Yeoh, Stephanie Hsu",85219
+88,3 Idiots,2009,8.3,Rajkumar Hirani,"Aamir Khan, Madhavan",386949
+89,Star Wars: Return of the Jedi,1983,8.3,Richard Marquand,"Mark Hamill, Harrison Ford",1023945
+90,2001: A Space Odyssey,1968,8.3,Stanley Kubrick,"Keir Dullea, Gary Lockwood",652814
+91,Reservoir Dogs,1992,8.3,Quentin Tarantino,"Harvey Keitel, Tim Roth",992064
+92,Eternal Sunshine of the Spotless Mind,2004,8.3,Michel Gondry,"Jim Carrey, Kate Winslet",982798
+93,High and Low,1963,8.3,Akira Kurosawa,"Toshirô Mifune, Yutaka Sada",42985
+94,Capernaum,2018,8.3,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw",85072
+95,Citizen Kane,1941,8.3,Orson Welles,"Orson Welles, Joseph Cotten",434932
+96,Lawrence of Arabia,1962,8.3,David Lean,"Peter O'Toole, Alec Guinness",288499
+97,The Hunt,2012,8.3,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen",320384
+98,M,1931,8.3,Fritz Lang,"Peter Lorre, Ellen Widmann",155493
+99,North by Northwest,1959,8.3,Alfred Hitchcock,"Cary Grant, Eva Marie Saint",322088
+100,Vertigo,1958,8.2,Alfred Hitchcock,"James Stewart, Kim Novak",394957
+101,Amélie,2001,8.2,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz",744321
+102,A Clockwork Orange,1971,8.2,Stanley Kubrick,"Malcolm McDowell, Patrick Magee",811189
+103,Come and See,1985,8.2,Elem Klimov,"Aleksey Kravchenko, Olga Mironova",75314
+104,Full Metal Jacket,1987,8.2,Stanley Kubrick,"Matthew Modine, R. Lee Ermey",725504
+105,Double Indemnity,1944,8.2,Billy Wilder,"Fred MacMurray, Barbara Stanwyck",154513
+106,The Apartment,1960,8.2,Billy Wilder,"Jack Lemmon, Shirley MacLaine",178480
+107,Scarface,1983,8.2,Brian De Palma,"Al Pacino, Michelle Pfeiffer",812681
+108,Ikiru,1952,8.2,Akira Kurosawa,"Takashi Shimura, Nobuo Kaneko",76905
+109,To Kill a Mockingbird,1962,8.2,Robert Mulligan,"Gregory Peck, John Megna",312165
+110,The Sting,1973,8.2,George Roy Hill,"Paul Newman, Robert Redford",257904
+111,Taxi Driver,1976,8.2,Martin Scorsese,"Robert De Niro, Jodie Foster",798908
+112,L.A. Confidential,1997,8.2,Curtis Hanson,"Kevin Spacey, Russell Crowe",572527
+113,Spider-Man: No Way Home,2021,8.2,Jon Watts,"Tom Holland, Zendaya",642462
+114,Up,2009,8.2,Pete Docter,"Edward Asner, Jordan Nagai",1015778
+115,Hamilton,2020,8.2,Thomas Kail,"Lin-Manuel Miranda, Phillipa Soo",87720
+116,Heat,1995,8.2,Michael Mann,"Al Pacino, Robert De Niro",635247
+117,Metropolis,1927,8.2,Fritz Lang,"Brigitte Helm, Alfred Abel",171784
+118,Snatch,2000,8.2,Guy Ritchie,"Jason Statham, Brad Pitt",837882
+119,A Separation,2011,8.2,Asghar Farhadi,"Payman Maadi, Leila Hatami",241682
+120,Die Hard,1988,8.2,John McTiernan,"Bruce Willis, Alan Rickman",858427
+121,Incendies,2010,8.2,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin",172529
+122,Indiana Jones and the Last Crusade,1989,8.2,Steven Spielberg,"Harrison Ford, Sean Connery",739273
+123,Bicycle Thieves,1948,8.2,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola",160991
+124,1917,2019,8.2,Sam Mendes,"Dean-Charles Chapman, George MacKay",552352
+125,Like Stars on Earth,2007,8.2,Aamir Khan,"Darsheel Safary, Aamir Khan",188923
+126,Downfall,2004,8.2,Oliver Hirschbiegel,"Bruno Ganz, Alexandra Maria Lara",350691
+127,For a Few Dollars More,1965,8.2,Sergio Leone,"Clint Eastwood, Lee Van Cleef",251885
+128,Batman Begins,2005,8.2,Christopher Nolan,"Christian Bale, Michael Caine",1429851
+129,Dangal,2016,8.2,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar",183414
+130,The Kid,1921,8.2,Charles Chaplin,"Charles Chaplin, Edna Purviance",124725
+131,Some Like It Hot,1959,8.2,Billy Wilder,"Marilyn Monroe, Tony Curtis",262607
+132,The Father,2020,8.2,Florian Zeller,"Anthony Hopkins, Olivia Colman",136703
+133,All About Eve,1950,8.2,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter",129779
+134,Green Book,2018,8.2,Peter Farrelly,"Viggo Mortensen, Mahershala Ali",465737
+135,The Wolf of Wall Street,2013,8.2,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill",1344748
+136,Judgment at Nuremberg,1961,8.2,Stanley Kramer,"Spencer Tracy, Burt Lancaster",76444
+137,Unforgiven,1992,8.2,Clint Eastwood,"Clint Eastwood, Gene Hackman",404683
+138,Pan's Labyrinth,2006,8.2,Guillermo del Toro,"Ivana Baquero, Ariadna Gil",657207
+139,Casino,1995,8.2,Martin Scorsese,"Robert De Niro, Sharon Stone",506974
+140,Ran,1985,8.2,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao",123547
+141,There Will Be Blood,2007,8.2,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano",570907
+142,The Sixth Sense,1999,8.2,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment",970435
+143,A Beautiful Mind,2001,8.2,Ron Howard,"Russell Crowe, Ed Harris",912234
+144,Monty Python and the Holy Grail,1975,8.2,Terry Gilliam,"Graham Chapman, John Cleese",532257
+145,The Truman Show,1998,8.2,Peter Weir,"Jim Carrey, Ed Harris",1039492
+146,Yojimbo,1961,8.1,Akira Kurosawa,"Toshirô Mifune, Eijirô Tôno",121081
+147,The Treasure of the Sierra Madre,1948,8.1,John Huston,"Humphrey Bogart, Walter Huston",123318
+148,Rashomon,1950,8.1,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô",165780
+149,The Great Escape,1963,8.1,John Sturges,"Steve McQueen, James Garner",241082
+150,Shutter Island,2010,8.1,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer",1261057
+151,Jurassic Park,1993,8.1,Steven Spielberg,"Sam Neill, Laura Dern",947717
+152,Kill Bill: Vol. 1,2003,8.1,Quentin Tarantino,"Uma Thurman, David Carradine",1085966
+153,No Country for Old Men,2007,8.1,Ethan Coen,"Tommy Lee Jones, Javier Bardem",943564
+154,The Elephant Man,1980,8.1,David Lynch,"Anthony Hopkins, John Hurt",237282
+155,Finding Nemo,2003,8.1,Andrew Stanton,"Albert Brooks, Ellen DeGeneres",1018910
+156,Raging Bull,1980,8.1,Martin Scorsese,"Robert De Niro, Cathy Moriarty",346678
+157,Chinatown,1974,8.1,Roman Polanski,"Jack Nicholson, Faye Dunaway",320228
+158,Gone with the Wind,1939,8.1,Victor Fleming,"Clark Gable, Vivien Leigh",310676
+159,V for Vendetta,2005,8.1,James McTeigue,"Hugo Weaving, Natalie Portman",1100445
+160,Inside Out,2015,8.1,Pete Docter,"Amy Poehler, Bill Hader",689450
+161,The Thing,1982,8.1,John Carpenter,"Kurt Russell, Wilford Brimley",410309
+162,"Lock, Stock and Two Smoking Barrels",1998,8.1,Guy Ritchie,"Jason Flemyng, Dexter Fletcher",571902
+163,Dial M for Murder,1954,8.1,Alfred Hitchcock,"Ray Milland, Grace Kelly",172737
+164,The Secret in Their Eyes,2009,8.1,Juan José Campanella,"Ricardo Darín, Soledad Villamil",206729
+165,The Bridge on the River Kwai,1957,8.1,David Lean,"William Holden, Alec Guinness",217541
+166,Howl's Moving Castle,2004,8.1,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura",380455
+167,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Martin McDonagh,"Frances McDormand, Woody Harrelson",491166
+168,Trainspotting,1996,8.1,Danny Boyle,"Ewan McGregor, Ewen Bremner",674848
+169,Gran Torino,2008,8.1,Clint Eastwood,"Clint Eastwood, Bee Vang",762729
+170,Warrior,2011,8.1,Gavin O'Connor,"Tom Hardy, Nick Nolte",464150
+171,Fargo,1996,8.1,Joel Coen,"William H. Macy, Frances McDormand",664910
+172,My Neighbour Totoro,1988,8.1,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka",328305
+173,Prisoners,2013,8.1,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal",681982
+174,Million Dollar Baby,2004,8.1,Clint Eastwood,"Hilary Swank, Clint Eastwood",676275
+175,The Gold Rush,1925,8.1,Charles Chaplin,"Charles Chaplin, Mack Swain",109897
+176,Blade Runner,1982,8.1,Ridley Scott,"Harrison Ford, Rutger Hauer",750389
+177,Catch Me If You Can,2002,8.1,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks",941360
+178,On the Waterfront,1954,8.1,Elia Kazan,"Marlon Brando, Karl Malden",152995
+179,The Third Man,1949,8.1,Carol Reed,"Orson Welles, Joseph Cotten",169674
+180,Children of Heaven,1997,8.1,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian",73653
+181,Ben-Hur,1959,8.1,William Wyler,"Charlton Heston, Jack Hawkins",236020
+182,The General,1926,8.1,Clyde Bruckman,"Buster Keaton, Marion Mack",90072
+183,12 Years a Slave,2013,8.1,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams",687006
+184,Wild Strawberries,1957,8.1,Ingmar Bergman,"Victor Sjöström, Bibi Andersson",105851
+185,Gone Girl,2014,8.1,David Fincher,"Ben Affleck, Rosamund Pike",953482
+186,Before Sunrise,1995,8.1,Richard Linklater,"Ethan Hawke, Julie Delpy",299254
+187,The Deer Hunter,1978,8.1,Michael Cimino,"Robert De Niro, Christopher Walken",334090
+188,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,David Yates,"Daniel Radcliffe, Emma Watson",847950
+189,In the Name of the Father,1993,8.1,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite",171934
+190,The Grand Budapest Hotel,2014,8.1,Wes Anderson,"Ralph Fiennes, F. Murray Abraham",782526
+191,Mr. Smith Goes to Washington,1939,8.1,Frank Capra,"James Stewart, Jean Arthur",114510
+192,The Wages of Fear,1953,8.1,Henri-Georges Clouzot,"Yves Montand, Charles Vanel",60205
+193,Sherlock Jr.,1924,8.1,Buster Keaton,"Buster Keaton, Kathryn McGuire",48702
+194,Barry Lyndon,1975,8.1,Stanley Kubrick,"Ryan O'Neal, Marisa Berenson",164329
+195,Memories of Murder,2003,8.1,Bong Joon Ho,"Song Kang-ho, Kim Sang-kyung",174072
+196,Room,2015,8.1,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",410241
+197,Hacksaw Ridge,2016,8.1,Mel Gibson,"Andrew Garfield, Sam Worthington",503586
+198,The Seventh Seal,1957,8.1,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand",182135
+199,Klaus,2019,8.1,Sergio Pablos,"Jason Schwartzman, J.K. Simmons",142449
+200,Wild Tales,2014,8.1,Damián Szifron,"Darío Grandinetti, María Marull",194129
+201,The Big Lebowski,1998,8.1,Joel Coen,"Jeff Bridges, John Goodman",791877
+202,How to Train Your Dragon,2010,8.1,Dean DeBlois,"Jay Baruchel, Gerard Butler",721393
+203,Mad Max: Fury Road,2015,8.1,George Miller,"Tom Hardy, Charlize Theron",971333
+204,Mary and Max,2009,8.1,Adam Elliot,"Toni Collette, Philip Seymour Hoffman",175223
+205,"Monsters, Inc.",2001,8.1,Pete Docter,"Billy Crystal, John Goodman",884974
+206,Jaws,1975,8.1,Steven Spielberg,"Roy Scheider, Robert Shaw",584337
+207,The Passion of Joan of Arc,1928,8.1,Carl Theodor Dreyer,"Maria Falconetti, Eugene Silvain",53702
+208,Pather Panchali,1955,8.1,Satyajit Ray,"Kanu Bannerjee, Karuna Bannerjee",31703
+209,Hotel Rwanda,2004,8.1,Terry George,"Don Cheadle, Sophie Okonedo",351463
+210,Tokyo Story,1953,8.1,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama",60495
+211,Dead Poets Society,1989,8.1,Peter Weir,"Robin Williams, Robert Sean Leonard",473295
+212,Platoon,1986,8.0,Oliver Stone,"Charlie Sheen, Tom Berenger",407381
+213,Rocky,1976,8.0,John G. Avildsen,"Sylvester Stallone, Talia Shire",561022
+214,Le Mans '66,2019,8.0,James Mangold,"Matt Damon, Christian Bale",368646
+215,Stand by Me,1986,8.0,Rob Reiner,"Wil Wheaton, River Phoenix",394082
+216,The Terminator,1984,8.0,James Cameron,"Arnold Schwarzenegger, Linda Hamilton",843591
+217,Rush,2013,8.0,Ron Howard,"Daniel Brühl, Chris Hemsworth",469438
+218,Spotlight,2015,8.0,Tom McCarthy,"Mark Ruffalo, Michael Keaton",460125
+219,Into the Wild,2007,8.0,Sean Penn,"Emile Hirsch, Vince Vaughn",612939
+220,Network,1976,8.0,Sidney Lumet,"Faye Dunaway, William Holden",157349
+221,The Wizard of Oz,1939,8.0,Victor Fleming,"Judy Garland, Frank Morgan",390777
+222,Logan,2017,8.0,James Mangold,"Hugh Jackman, Patrick Stewart",731774
+223,Groundhog Day,1993,8.0,Harold Ramis,"Bill Murray, Andie MacDowell",615854
+224,Ratatouille,2007,8.0,Brad Bird,"Brad Garrett, Lou Romano",705648
+225,The Exorcist,1973,8.0,William Friedkin,"Ellen Burstyn, Max von Sydow",393140
+226,Before Sunset,2004,8.0,Richard Linklater,"Ethan Hawke, Julie Delpy",257710
+227,The Best Years of Our Lives,1946,8.0,William Wyler,"Myrna Loy, Dana Andrews",63264
+228,The Incredibles,2004,8.0,Brad Bird,"Craig T. Nelson, Samuel L. Jackson",712115
+229,To Be or Not to Be,1942,8.0,Ernst Lubitsch,"Carole Lombard, Jack Benny",36144
+230,The Battle of Algiers,1966,8.0,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin",59220
+231,Rebecca,1940,8.0,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine",135304
+232,The Grapes of Wrath,1940,8.0,John Ford,"Henry Fonda, Jane Darwell",91816
+233,Hachi: A Dog's Tale,2009,8.0,Lasse Hallström,"Richard Gere, Joan Allen",278307
+234,Cool Hand Luke,1967,8.0,Stuart Rosenberg,"Paul Newman, George Kennedy",174761
+235,Amores perros,2000,8.0,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal",237497
+236,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,Gore Verbinski,"Johnny Depp, Geoffrey Rush",1090187
+237,Dersu Uzala,1975,8.0,Akira Kurosawa,"Maksim Munzuk, Yuriy Solomin",28431
+238,The 400 Blows,1959,8.0,François Truffaut,"Jean-Pierre Léaud, Albert Rémy",115771
+239,Persona,1966,8.0,Ingmar Bergman,"Bibi Andersson, Liv Ullmann",115910
+240,La Haine,1995,8.0,Mathieu Kassovitz,"Vincent Cassel, Hubert Koundé",168735
+241,My Father and My Son,2005,8.0,Cagan Irmak,"Çetin Tekindor, Fikret Kuskan",85734
+242,Life of Brian,1979,8.0,Terry Jones,"Graham Chapman, John Cleese",393413
+243,The Sound of Music,1965,8.0,Robert Wise,"Julie Andrews, Christopher Plummer",227233
+244,It Happened One Night,1934,8.0,Frank Capra,"Clark Gable, Claudette Colbert",102452
+245,The Handmaiden,2016,8.0,Park Chan-wook,"Kim Min-hee, Ha Jung-woo",139265
+246,Gandhi,1982,8.0,Richard Attenborough,"Ben Kingsley, John Gielgud",228386
+247,Aladdin,1992,8.0,Ron Clements,"Scott Weinger, Robin Williams",404552
+248,The Help,2011,8.0,Tate Taylor,"Emma Stone, Viola Davis",450665
+249,Beauty and the Beast,1991,8.0,Gary Trousdale,"Paige O'Hara, Robby Benson",443564
+250,Jai Bhim,2021,8.0,T.J. Gnanavel,"Suriya, Lijo Mol Jose",189400
